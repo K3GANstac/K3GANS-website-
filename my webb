@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>K3GAN | Music Artist</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #000;
+      color: #fff;
+      text-align: center;
+    }
+
+    .container {
+      max-width: 700px;
+      margin: auto;
+      padding: 80px 25px;
+    }
+
+    h1 {
+      font-size: 80px;
+      margin: 0;
+      letter-spacing: 8px;
+    }
+
+    .subtitle {
+      color: #aaa;
+      font-size: 20px;
+      margin-top: 10px;
+    }
+
+    section {
+      margin-top: 60px;
+    }
+
+    h2 {
+      font-size: 28px;
+    }
+
+    p {
+      color: #ccc;
+      line-height: 1.6;
+    }
+
+    .contact {
+      margin-top: 20px;
+      color: #fff;
+    }
+
+    footer {
+      margin-top: 80px;
+      color: #666;
+      font-size: 14px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <h1>K3GAN</h1>
+
+    <div class="subtitle">
+      MUSIC ARTIST
+    </div>
+
+    <section>
+      <h2>About K3GAN</h2>
+
+      <p>
+        K3GAN is an independent music artist creating and releasing
+        original music.
+      </p>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+
+      <p class="contact">
+        johnsonkeegan045@gmail.com
+      </p>
+    </section>
+
+    <footer>
+      © 2026 K3GAN. All rights reserved.
+    </footer>
+
+  </div>
+
+</body>
+</html>
